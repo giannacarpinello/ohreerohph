@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paegamedoo.thenepotist.com/sitemap.xml
